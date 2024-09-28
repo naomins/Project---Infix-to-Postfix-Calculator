@@ -1,4 +1,4 @@
-Infix to Postfix Converter and Evaluator with Custom Stack
+This is a C++ project that I completed for Jason Smith - CS 1337 - UTD.
 
 Goal: develop C++ project to convert mathematical expressions from infix to postfix notation and evaluates them.
 
